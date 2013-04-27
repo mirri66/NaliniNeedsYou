@@ -1,0 +1,4 @@
+function sharepopit(){
+  $(#sharepop).bPopup();
+};
+
